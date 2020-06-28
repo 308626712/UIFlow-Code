@@ -1,1 +1,1 @@
-Number = type(1)
+Number = (int, float)
